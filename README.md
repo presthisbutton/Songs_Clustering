@@ -8,7 +8,7 @@ The following Spotify audio features are used to determined whether a song is si
 
 - acousticness
 - danceability
-- duration_ms
+- duration ms
 - energy
 - instrumentalness
 - key
